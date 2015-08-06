@@ -31,3 +31,4 @@ for (ItemPrice price : mindRune.getItemPrices()){
 - [ ] Timestamp selection
 - [ ] Caching certain values into filesystem
 - [ ] Add documentation (JavaDocs)
+- [ ] Add more functionality like methods to get a price at a certain timestamp or date
